@@ -8,8 +8,7 @@ It was challenging to create a script that can run through 2,250,000  in a relat
 Table of Contents
 - VBA File 1: This file includes 3 subroutines which will setup the tickers and the column names, then calculates the open and closing price and finally a subroutine to populate the yearly change statistics and the total volume column
 - VBA File 2: This file will loop through the worksheets to provide the overall statistics for that year such as which ticker had the greatest percentage increase, greatest percentage decrease and the maximum volume per year
-- .xlsx file which includes the raw data and the statistics produced after running the script
-- screenshot folder
+- 3 screenshots from the excel file
 
 Various websites that helped improve the efficiency of the script:
 Excel VBA loops - for each, for next, do while, nested & more (2022) Automate Excel. Available at: https://www.automateexcel.com/vba/loops/#do-until-loops (Accessed: March 9, 2023). 
